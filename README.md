@@ -1,54 +1,56 @@
-<h1 align="center">Hi there 👋, I'm Jasmina Joshy</h1>
-<p align="center">
-  🚀 Final Year B.Tech CSE Student | 💼 Project Intern @ AIXE Labs  
-  <br>
-  🎓 Studying under KTU | 💡 Passionate about AI & Web Development
-</p>
-💁‍♀️ About Me
-
-👩‍💻 Final-year Computer Science student passionate about creating meaningful tech solutions.
-🎨 Creator of "ARTOGRAM"– an AI-powered online art gallery system.
-💬 Interested in full-stack development, chatbot integration, and real-world problem solving.
-🌱 Currently exploring AI, UI/UX, and responsive web development.
-🤝 Open to internships, collaborations, and project opportunities.
-
-🔧 Tech Skills
-
-💻 Languages: `Java`, `Python`, `HTML`, `CSS`, `JavaScript`,`SQL`
-🗄️ Database: `MySQL`
-⚙️ Tools: `VS Code`, `Git`, `GitHub`
-🤖 Extras: AI Chatbot Integration, Responsive UI Design
-
-💼 Featured Project
-
-🎨 Artogram
-> An AI-enabled online gallery platform for artists and customers  
-> Built with JSP & MySQL, featuring chatbot support and secure payments
-
-🔗Details available upon request
-
-📫 Connect with Me
-
-📧 Email: [jasminajoshy@gmail.com](mailto:jasminajoshy@gmail.com)
-💼 LinkedIn: [linkedin.com/in/jasmina-joshy-67b044283](https://www.linkedin.com/in/jasmina-joshy-67b044283)
-📷 Instagram: [@jasmina_joshy](https://instagram.com/jasmina_joshy)
-
-📊 GitHub Stats
+<h1 align="center">Hi there, I'm Jasmina Joshy 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasmina-gith&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmina-gith&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmina-gith&layout=compact&theme=radical" alt="Top Languages" />
+🎓 Final Year B.Tech CSE Student | 💡 Aspiring AI Developer | 💻 Passionate about Tech & Creativity
 </p>
 
-💬 Quote I Live By
+👩‍💻 About Me
 
->"Code the change you want to see in the world."
+I’m Jasmina Joshy, a dedicated and enthusiastic Computer Science Engineering student under the KTU curriculum.  
+Currently exploring the world of Artificial Intelligence, full-stack development, and creative tech solutions.  
+I’m passionate about transforming innovative ideas into real-time applications.
 
-🌟 Fun Facts
+🚀 Skills & Technologies
 
-🧠 Curious about Generative AI and its potential  
-🌍 Love building tech that serves people and communities  
-📷 Enjoy sharing my creative side on Instagram
+Languages: C, C++, Java, Python, HTML, CSS, JavaScript, SQL
+Tools: Git, GitHub, VS Code
+
+🎨 Featured Project
+
+🎨 Artogram — Online Art Gallery Platform  
+
+A dynamic web application that allows artists to showcase and sell their artwork online.  
+It includes:
+
+ Artist, Customer & Admin roles
+ AI-powered chatbot
+ Keyword-based search
+ Secure payment gateway  
+   Built with: JSP, MySQL, HTML, CSS, JS
+
+🌱 Currently Learning
+
+AI & Machine Learning Concepts
+Clean UI/UX Design
+Software Engineering Practices
+
+🤝 Open to
+
+Internship Opportunities
+Tech Collaborations
+Portfolio Projects
+
+📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmina-gith&layout=compact&theme=default)
+
+📬 Get in Touch
+
+📧 Email: [jasminajoshy@gmail.com](mailto:jasminajoshy@gmail.com)  
+🔗 LinkedIn: [Jasmina Joshy](https://www.linkedin.com/in/jasmina-joshy-67b044283)  
+📸 Instagram: [@jasmina_joshy](https://www.instagram.com/jasmina_joshy)  
+🧑‍💻 GitHub: [jasmina-gith](https://github.com/jasmina-gith)
+
+“Code is the canvas of the modern creator.”
+
+Thanks for visiting my GitHub profile! 😊
